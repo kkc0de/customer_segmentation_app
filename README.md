@@ -78,3 +78,11 @@ Try DBSCAN / Hierarchical clustering
 Apply PCA before clustering
 
 Build a recommendation strategy per cluster
+
+## 📸 Screenshots
+
+### App Interface
+![Upload Interface](https://github.com/kkc0de/customer_segmentation_app/blob/main/cus_seg_front.png)
+
+### Segmentation Results
+![Segmentation Output](https://github.com/kkc0de/customer_segmentation_app/blob/main/cus_seg_res.png)
